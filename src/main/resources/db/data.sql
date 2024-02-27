@@ -5,4 +5,5 @@ insert into plant (name, description, price) values
 ('your other plant','the worst plant',19.99),
 ('nature plant','plant',19.99),
 ('nature plant','plant',19.99),
+('nature plant','plant',19.99),
 ('nature plant','plant',19.99);

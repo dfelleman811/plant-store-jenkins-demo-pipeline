@@ -7,4 +7,5 @@ insert into plant (name, description, price) values
 ('nature plant','plant',19.99),
 ('nature plant','plant',19.99),
 ('nature plant','plant',19.99),
+('nature plant','plant',19.99),
 ('nature plant','plant',19.99);

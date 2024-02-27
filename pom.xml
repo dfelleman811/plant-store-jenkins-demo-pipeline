@@ -11,7 +11,7 @@
     <groupId>com.reavture</groupId>
     <artifactId>plant-store-jenkins-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <!-- <packaging>war</packaging> -->
     <name>plant-store-jenkins-demo</name>
     <description>plant-store-jenkins-demo</description>
     <properties>
